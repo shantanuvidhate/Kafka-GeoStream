@@ -19,5 +19,8 @@
     "Real time Data processing"
   ],
   "author": "shantanu",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
 }
