@@ -21,6 +21,8 @@
   "author": "shantanu",
   "license": "MIT",
   "dependencies": {
-    "kafkajs": "^2.2.4"
+    "dotenv": "^16.3.1",
+    "kafkajs": "^2.2.4",
+    "nodemon": "^3.0.1"
   }
 }
